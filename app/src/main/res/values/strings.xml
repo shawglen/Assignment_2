@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="copyright">All images copyright GlenShaw.ca and Wikipedia for the fact s.</string>
+    <string name="www">WWW</string>
+    <string name="about_us">About Us</string>
+    <string name="dialog_message">Thanks to TheCornellLabs - AllAboutBirds.org website for the facts.\n All images are copyrighted\n www.GlenShaw.ca 2017 </string>
+    <string name="dialog_title">All about birds</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="developer_name">Glen Shaw</string>
+    <string name="space"> </string>
+    <string name="image_description">dynamic image placed here by app</string>
+    <string name="image_play_description">play button image</string>
+    <string-array name="image_names">
+        <item>Black-crowned night heron</item>
+        <item>Sanderling</item>
+        <item>Crested Caracara</item>
+        <item>Turkey Vulture</item>
+        <item>Great Egret</item>
+        <item>Cuban Green Woodpecker</item>
+        <item>Nashville Warbler</item>
+        <item>Tree Swallow</item>
+        <item>Green Heron</item>
+        <item>Mourning Dove</item>
+    </string-array>
+    <string-array name="image_sound">
+        <item>a50a.mp3</item>
+        <item>a210a.mp3</item>
+        <item>a132a.mp3</item>
+        <item>a1861a.mp3</item>
+        <item>a4303a.mp3</item>
+        <item>cubangreenwoodpecker.mp3</item>
+        <item>a542a.mp3</item>
+        <item>a5068a.mp3</item>
+        <item>a1165a.mp3</item>
+        <item>a286a.mp3</item>
+    </string-array>
+    <string-array name="image_facts">
+        <item><![CDATA[
+                <p><b>Black-crowned Night-Herons</b> are stocky birds compared to many of their long-limbed heron relatives.<br> They’re most active at night or at dusk, when you may see their ghostly forms flapping out from daytime roosts to forage in wetlands.
+                 <p>In the light of day adults are striking in gray-and-black plumage and long white head plumes.<p> These social birds breed in colonies of stick nests usually built over water. They live in fresh, salt, and brackish wetlands and are the most widespread heron in the world.</p>
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>The <b>Sanderling</b>’s black legs blur as it runs back and forth on the beach, picking or probing for tiny prey in the wet sand left by receding waves.
+                <p>Sanderlings are medium-sized “peep” sandpipers recognizable by their pale nonbreeding plumage, black legs and bill, and obsessive wave-chasing habits.
+                <p>Learn this species, and you’ll have an aid in sorting out less common shorebirds.
+                <p>These extreme long-distance migrants breed only on High Arctic tundra, but during the winter they live on most of the sandy beaches of the world.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>A tropical falcon version of a vulture, the <b>Crested Caracara</b> reaches the United States only in Arizona, Texas, and Florida.
+                <p>It is a bird of open country, where it often is seen at carrion with vultures.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>If you ve gone looking for raptors on a clear day, your heart has probably leaped at the sight of a large, soaring bird in the distance– perhaps an eagle or osprey. But if it s soaring with its wings raised in a V and making wobbly circles, it s likely a <b>Turkey Vulture</b>.
+                 <p>These birds ride thermals in the sky and use their keen sense of smell to find fresh carcasses.
+                 <p>They are a consummate scavenger, cleaning up the countryside one bite of their sharply hooked bill at a time, and never mussing a feather on their bald heads.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>The elegant <b>Great Egret</b> is a dazzling sight in many a North American wetland.
+                <p>Slightly smaller and more svelte than a Great Blue Heron, these are still large birds with impressive wingspans.
+                <p>They hunt in classic heron fashion, standing immobile or wading through wetlands to capture fish with a deadly jab of their yellow bill.
+                <p><b>Great Egrets</b> were hunted nearly to extinction for their plumes in the late nineteenth century, sparking conservation movements and some of the first laws to protect birds.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>The <b>Cuban Green Woodpecker</b> is perhaps the most common and widespread woodpecker on Cuba, and is one of two woodpeckers that are endemic to this island.
+                 <p>Only the upperparts of this woodpecker are green. It also has a black crown and throat; the sides of the head are white, crossed by a black stripe behind the eye; the nape and the upper breast are red; and the underparts are yellow, streaked with black.
+                  There is a short crest on the rear crown.<p> The Cuban Green Woodpecker occupies many different types of forest, including mangroves, and occurs from the lowlands up to 2000 m.
+                  <p>This species usually forages singly or in pairs, but sometimes is encountered in small groups of three to five individuals.
+                  <p>The diet is not well known, but anecdotal accounts emphasize the relatively large size of the insects that the Cuban Green Woodpecker consumes.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>A small, sprightly songbird of second-growth forests, the <b>Nashville Warbler</b> breeds in both north-central North America and an isolated portion of the mountainous Pacific Northwest.
+                 <p>It nests on the ground and feeds almost exclusively on insects.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>Handsome aerialists with deep-blue iridescent backs and clean white fronts, <b>Tree Swallows</b> are a familiar sight in summer fields and wetlands across northern North America.
+                <p>They chase after flying insects with acrobatic twists and turns, their steely blue-green feathers flashing in the sunlight.
+                <p>Tree Swallows nest in tree cavities; they also readily take up residence in nest boxes.
+                <p>This habit has allowed scientists to study their breeding biology in detail, and makes them a great addition to many a homeowner’s yard or field.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>From a distance, the <b>Green Heron</b> is a dark, stocky bird hunched on slender yellow legs at the water’s edge, often hidden behind a tangle of leaves.
+                <p>Seen up close, it is a striking bird with a velvet-green back, rich chestnut body, and a dark cap often raised into a short crest.
+                <p>These small herons crouch patiently to surprise fish with a snatch of their daggerlike bill.
+                <p>They sometimes lure in fish using small items such as twigs or insects as bait.
+                ]]>
+        </item>
+        <item><![CDATA[
+                <p>A graceful, slender-tailed, small-headed dove that’s common across the continent. <b>Mourning Doves</b> perch on telephone wires and forage for seeds on the ground; their flight is fast and bullet straight.
+                <p>Their soft, drawn-out calls sound like laments.
+                <p>When taking off, their wings make a sharp whistling or whinnying.
+                 <p>Mourning Doves are the most frequently hunted species in North America.
+                ]]>
+        </item>
+    </string-array>
+</resources>
